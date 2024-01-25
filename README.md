@@ -1,6 +1,6 @@
 # Página de Pago - README
 
-Este proyecto es una práctica del curso ("Bootstrap 5: El Curso Completo, Práctico y Desde Cero")[https://www.udemy.com/course/curso-bootstrap/] en Udemy y ha sido creado utilizando Vanilla Bootstrap. La página web está diseñada para recopilar la información necesaria para realizar una transacción, como la dirección de envío, información de contacto y detalles de pago. Sin embargo, es importante tener en cuenta que el código proporcionado es estático y carece de interactividad.
+Este proyecto es una práctica del curso ["Bootstrap 5: El Curso Completo, Práctico y Desde Cero"](https://www.udemy.com/course/curso-bootstrap/) en Udemy y ha sido creado utilizando Vanilla Bootstrap. La página web está diseñada para recopilar la información necesaria para realizar una transacción, como la dirección de envío, información de contacto y detalles de pago. Sin embargo, es importante tener en cuenta que el código proporcionado es estático y carece de interactividad.
 
 ## Contenido del Repositorio
 
